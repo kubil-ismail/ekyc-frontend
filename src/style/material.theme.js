@@ -21,17 +21,19 @@ const mainTheme = createTheme({
     },
     h5: {
       fontSize: "18px",
-      fontWeight: "600",
+      fontWeight: "500",
     },
     h6: {
       fontSize: "16px",
-      fontWeight: "600",
+      fontWeight: "500",
     },
     body1: {
       fontSize: "14px",
+      fontWeight: "200",
     },
     body2: {
-      fontSize: "14px",
+      fontSize: "12px",
+      fontWeight: "200",
     },
     button: {
       textTransform: "inherit",
